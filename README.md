@@ -27,17 +27,14 @@ Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
 <iframe 
 src="https://www.loom.com/share/bab56ecde1ed4b64a643f76b814ff8c0" frameborder="0" 
 webkitallowfullscreen mozallowfullscreen allowfullscreen 
 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
 </iframe>
 
-**AS NOTE THE URL INDEX CHANGE WHEN NAVIGATING THROUGH THE SITE**
-ex:
-http://localhost:3000/store/1 (for the Rice Krispies page)
+**NOTE: AS THE URL INDEX CHANGE WHEN NAVIGATING THROUGH THE SITE**
+ex: http://localhost:3000/store/1 (for the Rice Krispies page)
 
 ### Reflection
 
