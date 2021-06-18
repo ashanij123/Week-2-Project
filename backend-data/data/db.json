@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rice Krispies",
+      "category": "food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
+      "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
+      "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
+      "price": 0.99
+    },
+    {
+      "id": 2,
+      "name": "Flamin Hot Cheetos",
+      "category": "food",
+      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
+      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
+      "price": 1.5
+    },
+    {
+      "id": 3,
+      "name": "Pencil",
+      "category": "stationery",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pencils_hb.jpg",
+      "source": "https://en.wikipedia.org/wiki/Pencil",
+      "description": "Are you an unprepared student? Well this pencil will help you at least take notes. You might still be unprepared.",
+      "price": 1.5
+    },
+    {
+      "id": 4,
+      "name": "Notebook",
+      "category": "stationery",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notebooks-rainbow.jpg/330px-Notebooks-rainbow.jpg",
+      "source": "https://en.wikipedia.org/wiki/Notebook",
+      "description": "Forgot your Ipad at home. It's time to bring out that classic notebook.",
+      "price": 2.5
+    },
+    {
+      "id": 5,
+      "name": "Airpods",
+      "category": "electronics",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/AirPods.jpg",
+      "source": "https://en.wikipedia.org/wiki/AirPods",
+      "description": "Do you hate those pesky wires holding you down from your greatest potential? Well, it's time to get airpods. Now only do they offer freedom but they only offer clout amongst your peers.",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "name": "T-shirt",
+      "category": "clothing",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_Tshirt.jpg/330px-Blue_Tshirt.jpg",
+      "source": "https://en.wikipedia.org/wiki/T-shirt",
+      "description": "Didn't feel like doing the laundry this week? Just buy a new shirt.",
+      "price": 15
+    }
+  ],
+  "purchases": []
+}

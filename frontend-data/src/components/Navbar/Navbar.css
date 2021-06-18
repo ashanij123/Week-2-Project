@@ -1,0 +1,15 @@
+.Navbar {
+    background: #355C7D;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .Navbar a {
+    text-decoration: none;
+    color: #fff;
+    margin: 20px;
+  }
+h1{
+ color: #dddddd;
+}

@@ -1,0 +1,38 @@
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.product-single-info {
+    width: 400px;
+    height: 500px;
+    border: 2px solid #FFDE2B;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .product-single-image {
+    width: 100%;
+    height: 70%;
+  }
+  .product-single-image img {
+    width: 100%;
+    height: 100%;
+  }
+  .product-single-category {
+    font-size: 18px;
+    text-transform: uppercase;
+    background-color: #FFD0CF;
+    float: right;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  .product-single-name {
+    font-size: 20px;
+    color: #330000
+  }
+  .product-single-desc{
+    color: #330000
+  }
+  .product-single-price{
+    color: yellow
+  }

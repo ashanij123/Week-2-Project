@@ -1,0 +1,29 @@
+.Home {
+    background: #F8B195;
+  }
+  .Home > div {
+    padding: 80px;
+  }
+  
+  .shop-intro {
+    width: 80%;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid #F8B195;
+  }
+  
+  #about{
+    background: #F67280;
+  }
+  #contact{
+    background: #6C5878;
+  }
+  .about {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
